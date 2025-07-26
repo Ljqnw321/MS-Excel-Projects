@@ -7,7 +7,7 @@ The data includes 30,000 records with details such as species, breed, location o
 
 ## 📁 Files
 
-- `DOHMH_Dog_Bite_Data_20250726.csv` – Main dataset file with 29,000 dog bite records.
+- `DOHMH_Dog_Bite_Data_20250726.csv` – Main dataset file with 30,000 dog bite records.
 
 ---
 
