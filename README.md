@@ -1,6 +1,7 @@
 # Dog Bite Incident Dataset (NYC Open Data)
 
 This repository contains a dataset of dog bite incidents from the DOHMH NYC Open Dataset https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data/rsgh-akpg/about_data, compiled for analysis in Microsoft Excel. 
+
 The data includes 30,000 records with details such as species, breed, location of incidents.
 
 ---
